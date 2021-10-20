@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12a88fe5.chunk.css",
+    "main.js": "/static/js/main.c772267b.chunk.js",
+    "main.js.map": "/static/js/main.c772267b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05998acb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05998acb.js.map",
+    "static/js/2.c7f58718.chunk.js": "/static/js/2.c7f58718.chunk.js",
+    "static/js/2.c7f58718.chunk.js.map": "/static/js/2.c7f58718.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.12a88fe5.chunk.css.map": "/static/css/main.12a88fe5.chunk.css.map",
+    "static/js/2.c7f58718.chunk.js.LICENSE.txt": "/static/js/2.c7f58718.chunk.js.LICENSE.txt",
+    "static/media/consult.ba3ac313.mp4": "/static/media/consult.ba3ac313.mp4",
+    "static/media/DigitalMarketing.module.css": "/static/media/digital2.5e9bcf5b.jpg",
+    "static/media/EntrePic.module.css": "/static/media/entre.f3b36335.jpg",
+    "static/media/Testimonials.module.css": "/static/media/lines.8ab49c92.jpg",
+    "static/media/IntroPic.module.css": "/static/media/pic.8fd816cf.png",
+    "static/media/students.472df611.jpg": "/static/media/students.472df611.jpg",
+    "static/media/Welcome.module.css": "/static/media/welcome.d1860b51.jpg",
+    "static/media/ProductManagement.module.css": "/static/media/xxx.41d84077.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05998acb.js",
+    "static/js/2.c7f58718.chunk.js",
+    "static/css/main.12a88fe5.chunk.css",
+    "static/js/main.c772267b.chunk.js"
+  ]
+}
